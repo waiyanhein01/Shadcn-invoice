@@ -31,7 +31,7 @@ const CheckoutForm = () => {
                   <SelectItem value="banana">Banana</SelectItem>
                   <SelectItem value="blueberry">Blueberry</SelectItem>
                   <SelectItem value="grapes">Grapes</SelectItem>
-                  <SelectItem value="pineapple">Pineapple</SelectItem>
+                  <SelectItem value="strawberry">Strawberry</SelectItem>
                 </SelectGroup>
               </SelectContent>
             </Select>
